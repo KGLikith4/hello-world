@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 During my internship, I am learning about the practical applications of Artificial Intelligence and Machine Learning.in this internship iam going to learn about git
-=======
-During my internship, I am learning about the practical applications of Artificial Intelligence and Machine Learning.
->>>>>>> 935df31cbb4acc0196e6183ed415383f95dd967f
+goal : i want to becoome an entrepreneur
